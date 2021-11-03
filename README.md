@@ -1,2 +1,2 @@
 # DonkeyKong
-simple frogger video game
+simple donkeykong video game
